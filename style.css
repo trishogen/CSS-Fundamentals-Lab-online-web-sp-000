@@ -18,6 +18,6 @@ figcaption {
   font-size: 10pt;
 }
 
-p#featured-property {
+#featured-property p{
   width: 800px;
 }
