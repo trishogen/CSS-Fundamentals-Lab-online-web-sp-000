@@ -23,6 +23,7 @@ section#featured-property p{
   text-align: center;
 }
 
-section#details div{
+section#details{
+  display: block;
   float: left;
 }
