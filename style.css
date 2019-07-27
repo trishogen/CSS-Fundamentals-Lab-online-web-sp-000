@@ -15,6 +15,9 @@ figcaption {
   font-size: 10pt;
 }
 
+section p{
+  width: 800px;
+}
 
 section#details{
   display: block;
