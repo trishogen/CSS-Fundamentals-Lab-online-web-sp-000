@@ -17,3 +17,7 @@ nav a{
 figcaption {
   font-size: 10pt;
 }
+
+p#featured-property {
+  width: 800px
+}
