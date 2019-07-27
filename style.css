@@ -21,10 +21,6 @@ figcaption {
   margin: 0 auto;
 }
 
-section#details{
-  display: block;
-}
-
 #details div{
   float: left;
   background-color: red;
